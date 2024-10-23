@@ -7,5 +7,6 @@ public class Suma {
 
         System.out.println("La suma de " + numero1 + " y " + numero2 + " es: " + resultado);
         System.out.println("¿Estás contento?");
+        System.out.println("no, no estoy contento");
     }
 }
